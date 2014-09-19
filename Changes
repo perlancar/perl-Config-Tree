@@ -1,0 +1,11 @@
+Revision history for Config-Tree
+
+0.10     2014-09-19 (PERLANCAR) - not yet released
+
+         - This is a reboot of the old Config-Tree I wrote in 2009. The new
+           interface is not totally different but has some incompatibilities
+           with the old one. The 2009 version contains functionalities that have
+           now been put in various separate distributions, e.g. Rinci/Perinci.
+           The new version is more like a filesystem (we now have the concept of
+           mounting and can list the content of a directory), but leave out
+           merging.
